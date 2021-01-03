@@ -1,0 +1,11 @@
+body {
+  background-color: #282a36;
+  color:white;
+  font-family:arial;
+  font-size:16pt;
+  margin:0;
+}
+
+.CodeMirror {
+  font-size: 16pt;
+}
